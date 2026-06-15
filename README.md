@@ -298,6 +298,11 @@ We gather information on commonly used datasets for reference. Please be aware t
 5. Lyfe Agents: generative agents for low-cost real-time social interactions
 6. SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series
 7. SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
+8. CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation
+9. SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation
+10. AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation
+11. Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation
+12. PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation
 
 ## Evaluation
 1. Theory Of Mind For Multi-agent Collaboration Via Large Language Models [[paper]](https://arxiv.org/pdf/2310.10701.pdf)
