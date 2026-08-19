@@ -298,6 +298,7 @@ We gather information on commonly used datasets for reference. Please be aware t
 5. Lyfe Agents: generative agents for low-cost real-time social interactions
 6. SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series
 7. SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
+8. CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents
 
 ## Evaluation
 1. Theory Of Mind For Multi-agent Collaboration Via Large Language Models [[paper]](https://arxiv.org/pdf/2310.10701.pdf)
